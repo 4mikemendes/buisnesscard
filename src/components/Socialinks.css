@@ -1,0 +1,14 @@
+.box {
+    background-color: #101011;
+    margin: 0px;
+    padding: 10px 0 10px 0;
+}
+
+.email-btn {
+    background-color: snow;
+    color: snow #4B4C4E;
+    border: 1px solid snow;
+    border-radius: 5px;
+    padding: 5px 20px;
+    margin: 0 0px 0 0px;
+}

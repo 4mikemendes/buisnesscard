@@ -1,5 +1,5 @@
 import React from "react";
-import Mike from '../Mike.png';
+import Mike from '../Mike.jpg';
 import './Image.css';
 
 export default function Image() {

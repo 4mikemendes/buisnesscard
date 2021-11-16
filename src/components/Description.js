@@ -1,8 +1,9 @@
 import React from "react";
+import "./Description.css"
 
 export default function Description() {
     return(
-        <div>
+        <div className="Description-container">
         <h3>About</h3>
         <p>Lorem Ipsum has been the industry's 
             standard dummy text ever since the 1500s, when an unknown printer 
