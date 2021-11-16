@@ -2,5 +2,9 @@
   text-align: center;
   max-width: 317px;
   margin: 0 auto;
-  background-color: #f2f2f2;
+  background-color: #1A1B21;
+}
+.content {
+  margin: 10px 20px 10px 20px;
+  
 }

@@ -9,8 +9,10 @@ function App() {
   return (
     <div className="App">
      <Image />
+     <div className="content">
      <Info />
      <Description />
+     </div>
      <Socialinks />
     </div>
   );

@@ -1,0 +1,26 @@
+#linkd-btn {
+    background-color: #0289CE;
+    color: snow;
+    border: 1px solid #0289CE;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 0 0 0 10px;
+}
+
+#gith-btn {
+    background-color: #4B4C4E;
+    color: snow;
+    border: 1px solid #4B4C4E;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 0 0px 0 0px;
+}
+.worktitle {
+    color: #F3BF99;
+    margin-top: 0;
+}
+
+.name {
+    margin: 0;
+    color: snow;
+}
